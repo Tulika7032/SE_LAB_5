@@ -1,0 +1,9 @@
+inventory_system.py:15:1: E302 expected 2 blank lines, found 1
+inventory_system.py:26:1: E302 expected 2 blank lines, found 1
+inventory_system.py:38:1: E302 expected 2 blank lines, found 1
+inventory_system.py:42:1: E302 expected 2 blank lines, found 1
+inventory_system.py:55:1: E302 expected 2 blank lines, found 1
+inventory_system.py:64:1: E302 expected 2 blank lines, found 1
+inventory_system.py:70:1: E302 expected 2 blank lines, found 1
+inventory_system.py:74:1: E302 expected 2 blank lines, found 1
+inventory_system.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
